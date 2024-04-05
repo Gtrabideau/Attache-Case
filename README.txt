@@ -9,6 +9,9 @@ Throughout the creation of the game, I applied my knowledge of other programming
 formatting and commands that Python uses as well as utilize my knowledge of programming concepts to create patterns that
 are used in many programs.
 
+INSTALLATION:
+Download the zip folder, unpack it, and then use play.exe to start the game
+
 BASICS OF THE GAME:
 Your goal is to place all the items in your list to fill the case completely.
 You cannot rotate items and must place them as they are.
